@@ -25,6 +25,11 @@ body {
   flex-wrap: wrap;
 }
 
+button {
+  margin-top: 20px;
+  position: absolute; 
+}
+
 .board div {
   color: green;
   font-size: 2rem;
